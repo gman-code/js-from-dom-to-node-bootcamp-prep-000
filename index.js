@@ -1,2 +1,4 @@
 // write your code below!
-let son=()
+let son="sal"
+let dad="jon"
+
