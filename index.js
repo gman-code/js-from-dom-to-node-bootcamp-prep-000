@@ -2,3 +2,4 @@
 let son="sal"
 let dad="jon"
 
+console.log()
